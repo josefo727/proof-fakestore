@@ -10,7 +10,7 @@ Para poner en marcha el proyecto `Proof Fakestore`, sigue estos pasos:
 
 1. *Clonar el Repositorio*:
    Clona este repositorio en tu máquina local utilizando:
-   ```git clone https://tudireccionderepositorio.com/proof-fakestore.git```
+   ```git clone git@github.com:josefo727/proof-fakestore.git```
 
 2. *Instalar Dependencias*:
    Navega al directorio del proyecto y ejecuta el siguiente comando para instalar todas las dependencias necesarias:
